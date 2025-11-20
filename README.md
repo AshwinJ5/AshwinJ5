@@ -23,10 +23,11 @@
 ### 🌟 About Me
 
 -   💻 1 year experience as a **MERN Stack (Next.js & Express.js) Developer**
+-   🐞 Creating bugs since **2024** (and fixing them faster 😉)
 -   🔥 Currently diving deep into **NestJS & Scalable Backend Architecture**
 -   📍 Based in **Kerala, India**
--   🎯 Strong in **REST APIs, MongoDB, PostgreSQL, JWT Auth, Razorpay, Mongo Aggregations**
--   🤝 Open to **collabs, backend roles & technical mentoring**
+-   🎯 Strong in **REST APIs, MongoDB, Express.Js, Next.Js, PostgreSQL, JWT Auth, Razorpay, Mongo Aggregations**
+-   🤝 Open to **collabs, developer roles & technical mentoring**
 
 ---
 
