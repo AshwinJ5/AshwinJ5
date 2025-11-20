@@ -61,16 +61,6 @@
 </div>
 </div>
 
-###
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
-Developed and maintained by Mauro de Souza
-Github
-Donate
-Share
-Privacy Policy
-Copy File Content
-
 ---
 
 <h3 align="center">🤝 Connect With Me</h3>
